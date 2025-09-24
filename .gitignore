@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore requirements auto lock
+*.log
