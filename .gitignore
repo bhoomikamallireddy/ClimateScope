@@ -35,3 +35,8 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+
+# ---- Data Files ----
+.DS_Store
+data/raw/
